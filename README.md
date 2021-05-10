@@ -38,6 +38,15 @@ At the intersection of the column and row you shall find the result in a format 
 
 **Substract the IMPACT SQUARE from fifty to get the final place**
 
+
+## Levels
+There are four distinct levels prepared in a csv format. You can download a prettyfied .ODS of the [kolin level](https://github.com/Smidra/world-of-papercraft-artillery/blob/c97e5dd1f799da833b9c4faa65cb027f008edc15/levels/kolin.ods)
+
+## How to run?
+``` bash
+python3 papercraft-artillery.py > milesovka.csv
+```
+
 ## Is it any good?
 [Yes](https://news.ycombinator.com/item?id=3067434)
 
