@@ -14,7 +14,7 @@ Simple, just download and print out one of the four generated levels. In the
 
 **1) Draw the game area**
 Take a squared piece of paper and mark fifty squares horizontaly and fifteen sqraues verticaly.
-On the botom of level there is a surface height mark for every 2 squares.
+On the left of level there is a surface height mark "~" for every 2 squares.
 Draw the whole line as the level.
 
 **2) Place your tank on the drawn surface**
